@@ -78,5 +78,5 @@ Se o AgroSat-1 operar 100% saudável por 1 ano, aproximadamente 15.000 produtore
 Dado-como-serviço (DaaS) — operadoras e plataformas agrícolas assinam acesso à API de imagens e análises do AgroSat-1 por hectare monitorado por mês.
 
 ## 🎬 Vídeo de demonstração
-🔗 [Assistir demonstração no YouTube](https://www.youtube.com/watch?v=SEU_ID_AQUI)
+🔗 [Assistir demonstração no YouTube](https://youtu.be/A5e6_2e3gr8)
 > Configurado como "Não listado" no YouTube.
